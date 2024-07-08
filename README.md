@@ -1,6 +1,15 @@
 <h1>Hi, I'm Eesha! <br/><a href="https://www.linkedin.com/in/eeshakandukuri/">Aspiring Software Engineer</a>, <a>Student</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Eesha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Eesha | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+
+[linkedin]: https://linkedin.com/in/eeshakandukuri
+[gmail]: mailto:kandukuri.eesha@gmail.com
+
 <!--
 - <b>Java</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -17,15 +26,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Swift</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
 -->
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Eesha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Eesha | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
-
-[linkedin]: https://linkedin.com/in/eeshakandukuri
-[gmail]: mailto:kandukuri.eesha@gmail.com
 
 <!--
 **EeshaKandukuri/EeshaKandukuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
